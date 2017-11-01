@@ -1,0 +1,12 @@
+Source: ros-indigo-rapid-pbd-msgs
+Section: misc
+Priority: extra
+Maintainer: Justin Huang <jstn@cs.washington.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib-msgs, ros-indigo-catkin, ros-indigo-control-msgs, ros-indigo-geometry-msgs, ros-indigo-message-generation, ros-indigo-moveit-msgs, ros-indigo-sensor-msgs, ros-indigo-trajectory-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rapid-pbd-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib-msgs, ros-indigo-control-msgs, ros-indigo-geometry-msgs, ros-indigo-message-runtime, ros-indigo-moveit-msgs, ros-indigo-sensor-msgs, ros-indigo-trajectory-msgs
+Description: Messages for rapid_pbd
