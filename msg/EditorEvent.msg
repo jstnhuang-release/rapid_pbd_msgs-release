@@ -1,7 +1,5 @@
 # Specifies an action taken by the PbD editor.
 
-# Updating the program itself
-string CREATE = create program
 # Used to update detailed fields of a program, not the structure itself
 string UPDATE = update program
 string DELETE = delete program
@@ -22,7 +20,6 @@ string GET_POSE = get pose
 
 string type
 
-# If type is CREATE, only program_info.name is needed.
 # If type is UPDATE, all fields of program_info and program are needed.
 # If type is DELETE, only program_info.db_id is needed.
 # If type is ADD_STEP, only program_info.db_id is needed.
