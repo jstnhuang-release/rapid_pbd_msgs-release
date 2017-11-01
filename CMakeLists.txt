@@ -69,6 +69,7 @@ add_service_files(
   FILES
   FreezeArm.srv
   RelaxArm.srv
+  CreateProgram.srv
 )
 
 ## Generate actions in the 'action' folder
