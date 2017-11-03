@@ -1,3 +1,26 @@
+## rapid_pbd_msgs (indigo) - 0.1.3-0
+
+The packages in the `rapid_pbd_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rapid_pbd_msgs --track indigo --rosdistro indigo` on `Fri, 03 Nov 2017 22:33:37 -0000`
+
+The `rapid_pbd_msgs` package was released.
+
+Version of package(s) in repository `rapid_pbd_msgs`:
+
+- upstream repository: https://github.com/jstnhuang/rapid_pbd_msgs.git
+- release repository: https://github.com/jstnhuang-release/rapid_pbd_msgs-release.git
+- rosdistro version: `0.1.2-0`
+- old version: `0.1.2-0`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## rapid_pbd_msgs (indigo) - 0.1.2-0
 
 The packages in the `rapid_pbd_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rapid_pbd_msgs --track indigo --rosdistro indigo` on `Wed, 01 Nov 2017 02:19:13 -0000`
