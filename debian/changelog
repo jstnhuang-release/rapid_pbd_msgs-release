@@ -1,0 +1,22 @@
+ros-indigo-rapid-pbd-msgs (0.1.3-0trusty) trusty; urgency=high
+
+  * Include detected surface in surface segmentation action result (#2 <https://github.com/jstnhuang/rapid_pbd_msgs/issues/2>)
+  * Contributors: pengy25
+
+ -- Justin Huang <jstn@cs.washington.edu>  Fri, 03 Nov 2017 07:00:00 -0000
+
+ros-indigo-rapid-pbd-msgs (0.1.2-0trusty) trusty; urgency=high
+
+  * Created a service message for creating a new program (#1 <https://github.com/jstnhuang/rapid_pbd_msgs/issues/1>)
+  * Contributors: Justin Huang, Yu-Tang Peng
+
+ -- Justin Huang <jstn@cs.washington.edu>  Tue, 31 Oct 2017 07:00:00 -0000
+
+ros-indigo-rapid-pbd-msgs (0.1.1-0trusty) trusty; urgency=high
+
+  * Initial release.
+  * Contributors: Justin Huang
+
+ -- Justin Huang <jstn@cs.washington.edu>  Mon, 11 Sep 2017 07:00:00 -0000
+
+
